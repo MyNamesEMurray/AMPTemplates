@@ -1,0 +1,30 @@
+[
+    {
+        "Protocol": "UDP",
+        "Port": "7777",
+        "Name": "Main Game Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "MainGamePort"
+    },
+    {
+        "Protocol": "UDP",
+        "Port": "7778",
+        "Name": "PeerPort",
+        "Description": "Port used for main game traffic",
+        "Ref": "PeerPort"
+    },
+    {
+        "Protocol": "UDP",
+        "Port": "27015",
+        "Name": "Steam Query Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "SteamQueryPort"
+    },
+    {
+        "Protocol": "TCP",
+        "Port": "27020",
+        "Name": "Remote Admin Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "RemoteAdminPort"
+    }
+]
