@@ -50,20 +50,9 @@
         "IsFlagArgument":false,
         "ParamFieldName":"Map",
         "IncludeInCommandLine":false,
-        "DefaultValue":"TheIsland",
+        "DefaultValue":"TheIsland_WP",
         "EnumValues":{
-            "Aberration_P":"Aberration",
-            "CrystalIsles":"Crystal Isles",
-            "Extinction":"Extinction",
-            "Fjordur":"Fjordur",
-            "Genesis":"Genesis: Part 1",
-            "Gen2":"Genesis: Part 2",
-            "LostIsland":"Lost Island",
-            "Ragnarok":"Ragnarok",
-            "ScorchedEarth_P":"Scorched Earth",
-            "TheCenter":"The Center",
-            "TheIsland":"The Island (default)",
-            "Valguero_P":"Valguero",
+            "TheIsland_WP":"The Island (default)",
             "{{CustomMap}}":"Custom"
         }
     },
