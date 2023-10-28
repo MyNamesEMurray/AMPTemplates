@@ -14,6 +14,15 @@
         "OverwriteExistingFiles":false
     },
     {
+        "UpdateStageName":"Game.ini Config Download",
+        "UpdateSourcePlatform":"Windows",
+        "UpdateSource":"FetchURL",
+        "UpdateSourceData":"https://raw.githubusercontent.com/MyNamesEMurray/AMPTemplates/main/ark-sagame.ini",
+        "UpdateSourceArgs":"Game.ini",
+        "UpdateSourceTarget":"{{$FullBaseDir}}ShooterGame/Saved/Config/WindowsServer/",
+        "OverwriteExistingFiles":false
+    },
+    {
         "UpdateStageName":"GameUserSettings.ini Config Download",
         "UpdateSourcePlatform":"Windows",
         "UpdateSource":"FetchURL",
