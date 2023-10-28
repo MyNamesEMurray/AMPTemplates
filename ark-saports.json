@@ -23,8 +23,8 @@
     {
         "Protocol": "TCP",
         "Port": "27020",
-        "Name": "Remote Admin Port",
+        "Name": "RCON Admin Port",
         "Description": "Port used for main game traffic",
-        "Ref": "RemoteAdminPort"
+        "Ref": "RCONAdminPort"
     }
 ]
